@@ -1,0 +1,9 @@
+{
+  "name": "Ola",
+  "age": 25,
+  "city": "Beirut",
+  "siblings": [
+    "Mohammed",
+    "Aya",
+  ],
+}
