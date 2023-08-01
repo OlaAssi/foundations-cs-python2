@@ -1,0 +1,28 @@
+tick101, ev003, fred, 20230802, 0
+tick102, ev002, gio, 20230803, 2
+tick103, ev001, ola, 20230728, 1
+tick104, ev004, aya, 20230805, 2
+tick105, ev003, tamara, 20230802, 1
+tick106, ev002, ali, 20230803, 0
+tick107, ev002, sara, 20230803, 1
+tick108, ev001, adam, 20230728, 3
+tick109, ev002, omar, 20230803, 3
+tick110, ev002, maya, 20230803, 2
+tick111, ev003, serena, 20230802, 2
+tick112, ev004, mariam, 20230805, 1
+tick113, ev001, mohammed, 20230728, 0
+tick114, ev003, sami, 20230802, 4
+tick115, ev004, mona, 20230805, 0
+tick116, ev001, maria, 20230728, 0
+tick117, ev005, gaith, 20230801, 1
+tick118, ev007, lara, 20230801, 2
+tick119, ev005, tima, 20230731, 0
+tick120,ev005,ayana,20230905,3
+tick121,ev004,ayoub,20240102,0
+tick122,ev005,ola,20240530,1
+tick124,ev005,ola,20240201,0
+tick125,ev008,aya,20230901,0
+tick126,ev009,ola,20240101,2
+tick127,ev001,ola,20251201,3
+tick128,ev005,ola ,20250302,0
+tick129,ev004,ali,20240302,1
